@@ -5,10 +5,11 @@ Backend application for mobile car-wash:
 Tech Stack:<br/>
 Back-end : Nodejs,express<br>
 Db :MongoDB<br>
- TYpe of Users:
+ TYpe of Users:<br>
  User:
  AdminUser 
- Use cases:- login
+ Use cases:<br>
+ - login
  -signup
  - search based on place
  - booking based on the availability of day (5 per day)
