@@ -6,9 +6,10 @@ Tech Stack:<br/>
 Back-end : Nodejs,express<br>
 Db :MongoDB<br>
  TYpe of Users:<br>
- User:
- AdminUser 
- Use cases:<br>
+ User.<br>
+ AdminUser.<br> <br>
+ 
+ User use cases:<br>
  - login
  -signup
  - search based on place
