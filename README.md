@@ -8,7 +8,7 @@ Back-end : Nodejs,express<br>
 Db :MongoDB<br>
  TYpe of Users:<br>
  User.<br>
- AdminUser.<br> <br>
+ Admin.<br> <br>
  
  User use cases:<br>
  - login
