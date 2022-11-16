@@ -1,7 +1,7 @@
 # car-wash-Backend
 
 
-Backend application for mobile car-wash:
+Car-wash  application for mobile car-wash:
 Tech Stack:<br/>
 Front-end;ReactJS
 Back-end : Nodejs,express<br>
