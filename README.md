@@ -3,6 +3,7 @@
 
 Backend application for mobile car-wash:
 Tech Stack:<br/>
+Front-end;ReactJS
 Back-end : Nodejs,express<br>
 Db :MongoDB<br>
  TYpe of Users:<br>
